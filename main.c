@@ -1,7 +1,4 @@
-/*Assignment 01
-Csci3120- Operating Systems
-Sourav Das, B00785668
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
