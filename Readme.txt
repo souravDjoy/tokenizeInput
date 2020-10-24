@@ -1,26 +1,15 @@
-How to run the Assignment 01 C program
+How to run the C program
 ----------------------------------------------
 ----------------------------------------------
 
-First, unzip the submitted zip folder and extract the contents of it in a simple folder in the computer. 
-Then, using FileZilla, transfer the main.c and Readme.txt files from the local site to the remote site(timberlea server). 
-This is just a simple drag and drop process.
 
-Now, both the files main.c and Readme.txt should be visible in the home directory.
-
-
-
-
-
-
-On the timberlea server, compile the c program using the command:
+Compile the c program using the command:
 gcc -o main main.c
 
 Here, the original format is: gcc -o [name of the executable file] [name of the source code file], and we are naming our 
 executable and source file as main and main.c respectively. The user is free to choose any name as the executable file name.
 
 Once you click enter, the C program has been compiled now and ready to run.
-
 
 
 
